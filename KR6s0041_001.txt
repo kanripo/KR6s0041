@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:02.014892
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 大乘四齋日
 #+PROPERTY: CBETA_ID T85n2849
 #+PROPERTY: ID KR6s0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2849
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0041_T_000-1299c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0041_T_001-1299c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2849¶
-
- 大乘四齋日¶
+No. 2849¶
+大乘四齋日¶
 ¶
 
 二月八日。四月八日。五月八日。七月十五日。¶
@@ -33,7 +32,7 @@ No.2849¶
 氷地獄。十八日閻羅王下念觀世音菩薩除¶
 齋除罪九十劫不墮劍樹地獄。二十三日天¶
 大將軍下念盧舍那佛除齋除罪一千劫不墮¶
-餓鬼地獄。二十四日太山府君下念地藏菩¶
+我鬼地獄。二十四日太山府君下念地藏菩¶
 薩除齋除罪九十劫不墮纔截地獄。二十八
 <pb:KR6s0041_T_001-1300a>¶
 日天帝釋下念阿彌陀佛除齋除罪一千劫不¶
